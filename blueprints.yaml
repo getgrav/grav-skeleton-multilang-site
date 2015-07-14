@@ -1,6 +1,6 @@
 name: MultiLang
 version: 1.0.0
-description: "Multi-Language skeleton utilizing the **Cacti** theme and **LangSwitcher** plugin"
+description: "Multi-Language skeleton utilizing the **Cacti** theme with **LangSwitcher**, **Feed**, **Infinite-Scrolling**, plus more!"
 icon: globe
 author:
   name: Team Grav
