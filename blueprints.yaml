@@ -1,0 +1,18 @@
+name: MultiLang
+version: 1.0.0
+description: "Multi-Language skeleton utilizing the **Cacti** theme with **LangSwitcher**, **Feed**, **Infinite-Scrolling**, plus more!"
+icon: globe
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-multilang-site
+demo: http://demo.getgrav.org/multilang-skeleton
+keywords: multilang, language, translation, cacti, theme, modern, fast, responsive, blog
+bugs: https://github.com/getgrav/grav-theme-cacti/issues
+license: MIT
+
+form:
+  validation: strict
+  fields:
+
