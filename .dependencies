@@ -1,0 +1,50 @@
+git:
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: develop
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: develop
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: develop
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: develop
+    langswitcher:
+        url: https://github.com/getgrav/grav-plugin-langswitcher
+        path: user/plugins/langswitcher
+        branch: develop    
+    cacti:
+        url: https://github.com/getgrav/grav-theme-cacti
+        path: user/themes/cacti
+        branch: develop
+links:
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github
+    feed:
+        src: grav-plugin-feed
+        path: user/plugins/feed
+        scm: github 
+    langswitcher:
+        src: grav-plugin-langswitcher
+        path: user/plugins/langswitcher
+        scm: github            
+    cacti:
+        src: grav-theme-cacti
+        path: user/themes/cacti
+        scm: github
