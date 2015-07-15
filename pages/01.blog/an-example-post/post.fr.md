@@ -1,5 +1,5 @@
 ---
-title: Un exemple d’un post
+title: Un exemple d’article
 date: 20:18 23-06-2015
 headline: Rempli de contenu fictif
 taxonomy:
