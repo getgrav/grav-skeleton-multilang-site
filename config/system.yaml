@@ -8,6 +8,8 @@ languages:
     - en
     - es
     - fr
+    - it
+    - nl
   http_accept_language: true
   home_redirect:
     include_lang: true

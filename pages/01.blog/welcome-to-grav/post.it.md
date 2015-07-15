@@ -13,7 +13,7 @@ Per aggiungere nuovi messaggi, è sufficiente aggiungere una cartella in `user/p
 
 ---
 
-Grav supporta [markdown](https://en.wikipedia.org/wiki/Markdown) per poter fare quanto segue:
+[Grav][grav] supporta [markdown](https://en.wikipedia.org/wiki/Markdown) per poter fare quanto segue:
 
 ## Formattazione di base
 
@@ -23,7 +23,7 @@ I paragrafi devono essere separati da una riga vuota. La formattazione di base p
 
 Andare alla [Documentazione Grav][Grav-docs] per ulteriori informazioni su come ottenere il massimo da Grav. Tutti i file e le richieste di correzione errori/nuove funzionalità si trovano nel [Repository GitHub di Grav][Grav-gh].
 
-[grav]:    http://jekyllrb.com
+[grav]: http://getgrav.org
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 

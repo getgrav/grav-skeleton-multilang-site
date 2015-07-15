@@ -13,7 +13,7 @@ Para agregar un nuevo artículo, simplemente agrega una carpeta a la carpeta `us
 
 ---
 
-Grav soporta [markdown](https://en.wikipedia.org/wiki/Markdown) así que puedes hacer cosas como estas:
+[Grav][grav] soporta [markdown](https://en.wikipedia.org/wiki/Markdown) así que puedes hacer cosas como estas:
 
 ## Formato Básico
 
@@ -23,7 +23,7 @@ Los párrafos deben ser separados por una línea en blanco. El formato básico p
 
 Revisa la [documentación de Grav][grav-docs] para más información de como sacarle el jugo a Grav. Escríbenos con cualquier bug o solicitud de funcionalidad al [repositorio GitHub de Grav][grav-gh].
 
-[grav]: http://getgrav.org/
+[grav]: http://getgrav.org
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 

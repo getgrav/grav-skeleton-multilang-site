@@ -13,7 +13,7 @@ Om nieuwe posts toe te voegen, voegt u slechts een nieuwe map toe in de map `use
 
 ---
 
-Grav ondersteunt [markdown](https://en.wikipedia.org/wiki/Markdown). U kan dus zaken doen zoals:
+[Grav][grav] ondersteunt [markdown](https://en.wikipedia.org/wiki/Markdown). U kan dus zaken doen zoals:
 
 ## Basis opmaak
 
