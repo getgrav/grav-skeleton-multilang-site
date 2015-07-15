@@ -1,7 +1,7 @@
 ---
 title: Fragments de code
 date: 09:57 08-05-2015
-headline: Incluant le code dans vos articles est le simplicité pure
+headline: Inclure du code dans vos articles est la simplicité même
 taxonomy:
     category: blog
     tag: [grav, tips]
@@ -14,7 +14,7 @@ Vous pouvez ajouter des blocs de code dans votre contenu rapidement et facilemen
 
 ## Code Inline
 
-Le code inline est très pratique lorsque vous souhaitez insérer une chaîne de code, ou le nom de fichier ou d’une fonction en respectant votre phrase. Pour ce faire, simplement envelopper vos extraits avec `` ` ``. Voici un exemple:
+Le code inline est très pratique lorsque vous souhaitez insérer une chaîne de code, ou le nom de fichier ou d’une fonction en respectant votre phrase. Pour ce faire, enveloppez simplement vos extraits de code avec `` ` ``. Voici un exemple:
 
 ```text
 Dans cet exemple, `<section></section>` doit être enveloppé comme **code**.
@@ -46,7 +46,7 @@ Apparaîtra comme ceci:
 
 ## Bloc de code "Fence"
 
-Ceci est facilement la méthode la plus puissante de la création d’un bloc de code car il vous donne un contrôle optimal du résultat. Vous placez toutes les lignes que vous aimeriez avoir apparaissent dans le bloc de code l’intérieur des clôtures, composé de trois caractères `` ` ``. La première instance doit être suivie directement par le type de code étant présentée dans le bloc de code. Par exemple:
+Ceci est la méthode la plus puissante pour créer un bloc de code car elle vous donne un contrôle optimal du résultat. Vous placez toutes les lignes que vous aimeriez voir apparaître dans le bloc de code à l’intérieur des clôtures, composé de trois caractères `` ` ``. La première instance doit être directement suivie par le type de code présent dans le bloc de code. Par exemple:
 
 <pre>
 ``` markup
