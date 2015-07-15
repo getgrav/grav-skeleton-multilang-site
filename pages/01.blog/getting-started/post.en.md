@@ -40,7 +40,8 @@ Install the **plugin** and theme **dependencies** by using the [Grav CLI applica
 ```text
 $ cd ~/webroot/grav
 $ bin/grav install
-This will automatically clone the required dependencies from GitHub directly into this Grav installation.
 ```
+
+This will automatically clone the required dependencies from GitHub directly into this Grav installation.
 
 You can find more information on installing and updating Grav by visiting Grav's [official documentation](http://learn.getgrav.org/basics/installation).

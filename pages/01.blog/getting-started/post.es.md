@@ -40,7 +40,8 @@ Instala el **plugin** y las **dependencias** usando el [Grav CLI application](ht
 ```texto
 $ cd ~/webroot/grav
 $ bin/grav install
-Esto automáticamente clonará las dependencias requeridas desde Github directamente a tu instalación de Grav.
 ```
+
+Esto automáticamente clonará las dependencias requeridas desde Github directamente a tu instalación de Grav.
 
 Puedes encontrar más información sobre instalar y actualizar Grav visitando la [Documentación Oficial](http://learn.getgrav.org/basics/installation) de Grav.
