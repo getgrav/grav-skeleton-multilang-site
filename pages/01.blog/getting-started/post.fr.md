@@ -7,7 +7,7 @@ taxonomy:
     tag: [grav]
 ---
 
-Grav est très facile à installer. Parce qu’il ne nécessite pas une base de données, l’installation peut être aussi simple que la décompression du noyau Grav (ou un squelette) dans le répertoire du serveur que vous souhaitez installer votre site Grav.
+Grav est très facile à installer. Parce qu’il ne nécessite aucune base de données, l’installation peut être aussi simple que la décompression du noyau de Grav (ou d'un squelette) dans le répertoire du serveur où vous souhaitez installer votre site Grav.
 
 La seule véritable exigence de Grav est que votre serveur peut exécuter PHP 5.4 ou supérieur. Vous pouvez utiliser Grav avec Apache, Nginx, LiteSpeed, IIS, etc.
 
@@ -15,9 +15,9 @@ La seule véritable exigence de Grav est que votre serveur peut exécuter PHP 5.
 
 ## Option 1: Installation du paquet ZIP
 
-Le moyen le plus facile à installer Grav est d’utiliser le paquet d’installation ZIP:
+Le moyen le plus facile pour installer Grav est d’utiliser le paquet d’installation ZIP:
 
-1. Téléchargez la dernière paquet d’installation de Grav de base partir du page des [téléchargements](http://getgrav.org/downloads).
+1. Téléchargez le dernier paquet de l’installation de base de Grav à partir de la page des [téléchargements](http://getgrav.org/downloads).
 2. Extraire le fichier ZIP dans le dossier webroot de votre serveur web, par exemple, `~/webroot/grav`.
 
 Si vous avez téléchargé le fichier ZIPet ensuite envisagez de le déplacer à votre webroot, déplacer **l’ensemble du dossier**, car il contient plusieurs fichiers cachés (comme `.htaccess`) qui ne seront pas sélectionnés par défaut. L’omission de ces fichiers cachés peut causer des problèmes lors de l’exécution Grav.
@@ -44,4 +44,4 @@ $ bin/grav install
 
 Cela va cloner automatiquement les dépendances requises à partir de GitHub directement dans l’installation de Grav.
 
-Vous pouvez trouver plus d’informations sur l’installation et la mise à jour en consultant Grav [les documentations officielle](http://learn.getgrav.org/basics/installation) de Grav.
+Vous pouvez trouver plus d’informations sur l’installation et la mise à jour de Grav en consultant [la documentation officielle](http://learn.getgrav.org/basics/installation) de Grav.
