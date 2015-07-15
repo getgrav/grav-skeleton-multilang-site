@@ -23,7 +23,7 @@ Paragrafen moeten gescheiden worden door een lege lijn. Basis opmaken zoals *cur
 
 Sla er de [Grav documentatie][grav-docs] op na om het beste uit Grav te halen. Dien alle aanvragen van fouten/verbeteringen in via [Grav's GitHub repository][grav-gh] a.u.b.
 
-[grav]:    http://jekyllrb.com
+[grav]: http://getgrav.org
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 
