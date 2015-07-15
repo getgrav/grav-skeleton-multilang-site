@@ -7,7 +7,7 @@ taxonomy:
     tag: [grav, consejos]
 ---
 
-Puedes agregar bloques de código a tu contenido de forma rápida y fácil. Estos bloques de código pueden estar en la misma línea que el texto, pueden ser resaltados para que mejorar su visibilidad, o posicionado en su propio bloque para preservar el formato y activar el resaltado por sintaxis. Esta guía te ayudara a empezar.
+Puedes agregar bloques de código a tu contenido de forma rápida y fácil. Estos bloques de código pueden estar en la misma línea que el texto, pueden ser resaltados para que mejorar su visibilidad, o posicionados en su propio bloque para preservar el formato y activar el resaltado por sintaxis. Esta guía te ayudara a empezar.
 
 ===
 
@@ -19,7 +19,7 @@ Código Inline (en la misma línea) es útil cuando desees insertar una línea d
 En este ejemplo, `<section></section>` debería ser envuelto como **código**
 ```
 
-Se rendeará como:
+Se mostrará como:
 
 En este ejemplo, `<section></section>` debería ser envuelto como **código**.
 
@@ -27,7 +27,7 @@ En este ejemplo, `<section></section>` debería ser envuelto como **código**.
 
 ## Código Indentado
 
-Indentando tu código es una forma rápida y fácil de crear un bloque de código. Indentando tu código con al menos cuatro espacios, Grav lo rendeará en un bloque de código.
+Indentar tu código es una forma rápida y fácil de crear un bloque de código. Indentar tu código con al menos cuatro espacios, Grav lo mostrará en un bloque de código.
 
 <pre>
   // Algunos comentarios
@@ -36,7 +36,7 @@ Indentando tu código es una forma rápida y fácil de crear un bloque de códig
   línea 1 de código
 </pre>
 
-Se rendeará a:
+Se mostrará como:
 
     // Algunos comentarios
     línea 1 de código
@@ -45,7 +45,7 @@ Se rendeará a:
 
 ## Bloque de Código "Vallas"
 
-Este es fácilmente el método más poderoso de crear un bloque de código, debido a que te da control optimo sobre el resultado. Inserta cualquier línea que te gustaría que aparezca en el bloque de código entre las vallas, consistiendo de tres caracteres `` ` ``, con la primera instancia seguida directamente con el tipo de código que está siendo presentado en tu bloque de código. Por ejemplo:
+Este es probablemente el método más poderoso de crear un bloque de código, debido a que te da control optimo sobre el resultado. Inserta cualquier línea que te gustaría que aparezca en el bloque de código entre las vallas, consistiendo de tres caracteres `` ` ``, con la primera instancia seguida directamente con el tipo de código que está siendo presentado en tu bloque de código. Por ejemplo:
 
 <pre>
 ``` markup
@@ -53,7 +53,7 @@ Texto de ejemplo aquí...
 ```
 </pre>
 
-Se renderea como:
+Se mostrará como:
 
 ```
 Texto de ejemplo aquí...
