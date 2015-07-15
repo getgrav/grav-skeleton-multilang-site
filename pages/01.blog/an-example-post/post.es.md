@@ -13,10 +13,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat
 
-| Tablas   |      Son      |  Interesantes |
+| Las tablas   |      Son      |  Geniales |
 |----------|:-------------:|--------------:|
-| col 1 is |  left-aligned | $1600 		   |
-| col 2 is |    centered   |   $12         |
-| col 3 is | right-aligned |    $1 		   |
+| col 1 está |  alineada-izquierda | $1600 		   |
+| col 2 está |    centrada   |   $12         |
+| col 3 está | alineada-derecha |    $1 		   |
 
 Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.
