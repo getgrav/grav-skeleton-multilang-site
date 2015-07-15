@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 class: home
 
 sitemap:
@@ -15,7 +15,7 @@ content:
     pagination: true
 
 feed:
-    description: Feed Title
+    description: Título de Feed
     limit: 10
 ---
 
