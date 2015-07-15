@@ -23,7 +23,7 @@ Paragraphs must be separated by a blank line. Basic formatting of *italics* and 
 
 Check out the [Grav docs][grav-docs] for more info on how to get the most out of Grav. File all bugs/feature requests at [Grav's GitHub repo][grav-gh].
 
-[grav]:    http://jekyllrb.com
+[grav]: http://getgrav.org/
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 

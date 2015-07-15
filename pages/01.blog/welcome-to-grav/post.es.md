@@ -23,7 +23,7 @@ Párrafos deben ser separados por una línea en blanco. El formato básico de *c
 
 Revisa los [Grav docs][grav-docs] para más información de como sacarle el jugo a Grav. Escríbenos con cualquier bug o característica a [GitHub repo de Grav][grav-gh].
 
-[grav]:    http://jekyllrb.com
+[grav]: http://getgrav.org/
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 
