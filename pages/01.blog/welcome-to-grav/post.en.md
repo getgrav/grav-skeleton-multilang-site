@@ -1,27 +1,27 @@
 ---
-title: Welcome to Grav!
+title: Bienvenido a Grav!
 date: 16:00 10-07-2015
-headline: Get ready to fall in love :)
+headline: Prepararte para enamorarte :)
 taxonomy:
     category: blog
     tag: [grav]
 ---
 
-You'll find this post in your `user/pages/01.blog/welcome-to-grav` folder - edit this post and reload the browser to see your changes.
+Encontrarás este artículo en tu carpeta `user/pages/01.blog/welcome-to-grav` - edita este post y refresca el navegador para que veas los cambios.
 
-To add new posts, simply add a folder in the `user/pages/01.blog/` folder and give it a unique slug for folder name. Then copy this `post.md` file into it and edit.
+Para agregar un nuevo artículo, simplemente agrega una carpeta a la carpeta `user/pages/01.blog/` y asignale un slug único para el nombre de la carpeta. Luego copiale este archivo `post.md` y edítalo.
 
 ---
 
-Grav supports [markdown](https://en.wikipedia.org/wiki/Markdown) so you can do things like this:
+Grav soporta [markdown](https://en.wikipedia.org/wiki/Markdown) asi que puedes hacer cosas como estas:
 
-## Basic formatting
+## Formato Básico
 
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
+Párrafos pueden ser escritos de esta manera. Un párrafo es el bloque básco de Markdown. Un párrafo es lo que el texto se convertira cuando no haya otra razón para convertirse en otra cosa.
 
-Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
+Párrafos deben ser separados por una línea en blanco. El formato básico de *cursivas* y **negrita** son soportados. Esto *puede ser **anidado** de esta manera*.
 
-Check out the [Grav docs][grav-docs] for more info on how to get the most out of Grav. File all bugs/feature requests at [Grav's GitHub repo][grav-gh].
+Revisa los [Grav docs][grav-docs] para más información de como sacarle el jugo a Grav. Escribenos con cualquier bug o característica a [GitHub repo de Grav][grav-gh].
 
 [grav]:    http://jekyllrb.com
 [grav-docs]: http://learn.getgrav.org
