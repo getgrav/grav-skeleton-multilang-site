@@ -21,7 +21,7 @@ De eenvoudigste manier om Grav te installeren is middels een ZIP archief als vol
 1. Laad het allernieuwste Grav basis archief van de [Downloads](http://getgrav.org/downloads) pagina.
 2. Pak dit ZIP archief uit in de webroot van uw web server, bijvoorbeeld `~/public_html/grav`.
 
-Indien u het reeds uitgepakte ZIP archief wil verplaatsen naar de webroot, let erop de **hele map** te verplaatsen vanwege de verborgen bestanden (zoals `.htaccess`) die standaard niet geselecteerd worden. Wanneer deze verborden bestanden ontbreken, zou de werking van Grav kunnen haperen.
+Indien u het reeds uitgepakte ZIP archief wil verplaatsen naar de webroot, let erop de **hele map** te verplaatsen vanwege de verborgen bestanden (zoals `.htaccess`) die standaard niet geselecteerd worden. Wanneer deze verborgen bestanden ontbreken, zou de werking van Grav kunnen haperen.
 
 ---
 
