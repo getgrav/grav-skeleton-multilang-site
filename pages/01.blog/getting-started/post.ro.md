@@ -35,7 +35,7 @@ $ cd ~/webroot
 $ git clone https://github.com/getgrav/grav.git
 ```
 
-Instalează **pluginul** și theme  **dependencies** utilizând [aplicația Grav CLI](http://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
+Instalează **pluginul** și **dependențele** temei utilizând [aplicația Grav CLI](http://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
 
 ```text
 $ cd ~/webroot/grav
