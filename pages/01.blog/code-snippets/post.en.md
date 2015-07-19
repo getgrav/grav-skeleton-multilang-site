@@ -28,7 +28,7 @@ In this example, `<section></section>` should be wrapped as **code**.
 
 ## Indented Code
 
-Intending your code is a quick and easy way to create a code block. By intending your code with at least four spaces, Grav will render it in a code block.
+Indenting your code is a quick and easy way to create a code block. By indenting your code with at least four spaces, Grav will render it in a code block.
 
 <pre>
   // Some comments

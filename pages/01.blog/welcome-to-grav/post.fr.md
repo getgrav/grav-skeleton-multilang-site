@@ -7,23 +7,24 @@ taxonomy:
     tag: [grav]
 ---
 
-You'll find this post in your `user/pages/01.blog/welcome-to-grav` folder - edit this post and reload the browser to see your changes.
+Vous trouverez ce post dans le dossier `user/pages/01.blog/welcome-to-grav` - modifier ce post et recharger le navigateur pour voir vos modifications.
 
-To add new posts, simply add a folder in the `user/pages/01.blog/` folder and give it a unique slug for folder name. Then copy this `post.md` file into it and edit.
+Pour ajouter des nouveaux postes, il suffit de créer un nouveau dossier dans le dossier `user/pages/01.blog/`. Donner un slug unique pour le nom du dossier. En suite, dupliquer ce fichier `post.md` dedans et le modifier.
 
 ---
 
-Grav supports [markdown](https://en.wikipedia.org/wiki/Markdown) so you can do things like this:
+[Grav][grav] soutien [le Markdown](https://en.wikipedia.org/wiki/Markdown) afin que vous pouvez faire:
 
-## Basic formatting
+## Formatage de base
 
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
+Les paragraphes peuvent être écrites comme tel. Un paragraphe est le bloc de base de Markdown. Un paragraphe est ce qui va se transformer en texte quand il n’y a aucune raison qu’il deviendrait autre chose.
 
-Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
+Les paragraphes doivent être séparés par une ligne vide. Mise en forme de base de *l’italique* et **gras** sont pris en charge. Ils *peuvent être **imbriquées** comme* tel.
 
-Check out the [Grav docs][grav-docs] for more info on how to get the most out of Grav. File all bugs/feature requests at [Grav's GitHub repo][grav-gh].
+Découvrez les [Documentation Grav][grav-docs] pour plus d’informations sur la façon de obtenir le maximum de Grav. Signaler tous les bugs/demandes de fonctionnalités dans [le repo GitHub de Grav][grav-gh].
 
-[grav]:    http://jekyllrb.com
+
+[grav]: http://getgrav.org
 [grav-docs]: http://learn.getgrav.org
 [grav-gh]: https://github.com/getgrav/grav
 

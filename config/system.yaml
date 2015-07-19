@@ -6,7 +6,12 @@ home:
 languages:
   supported:
     - en
+    - de
+    - es
     - fr
+    - it
+    - nl
+    - el
   http_accept_language: true
   home_redirect:
     include_lang: true

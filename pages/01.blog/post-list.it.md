@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: Home
 class: home
 
 sitemap:
@@ -15,7 +15,6 @@ content:
     pagination: true
 
 feed:
-    description: Titre Flux RSS
+    description: Titolo Feed
     limit: 10
 ---
-

@@ -1,7 +1,7 @@
 ---
-title: Un exemple d’article
+title: Een voorbeeld post
 date: 20:18 23-06-2015
-headline: Rempli de contenu fictif
+headline: Opgevuld met willekeurige inhoud
 taxonomy:
     category: blog
     tag: [grav]
@@ -13,10 +13,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat
 
-| Les tables |       Sont      |  Cool |
-|------------|:---------------:|------:|
-| col 1 est  | aligné à gauche | $1600 |
-| col 2 est  |      centré     |   $12 |
-| col 3 est  | aligné à droite |    $1 |
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| Kolom 1 is |  links uitgelijnd | $1600 |
+| Kolom 2 is |    gecentreerd   |   $12 |
+| Kolom 3 is | rechts uitgelijnd |    $1 |
 
 Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.

@@ -1,46 +1,47 @@
 ---
 title: Premiers pas avec Grav
 date: 09:55 07-07-2015
-headline: Grav est super facile à installer , il suffit de suivre le long ...
+headline: Grav est ultra facile à installer, il suffit de suivre ainsi…
 taxonomy:
     category: blog
     tag: [grav]
 ---
 
-Grav is very easy to install. Because it does not require a database, installation can be as simple as unzipping the Grav core (or a skeleton) in the server directory you wish to have your Grav install appear.
+Grav est très facile à installer. Parce qu’il ne nécessite aucune base de données, l’installation peut être aussi simple que la décompression du noyau de Grav (ou d'un squelette) dans le répertoire du serveur où vous souhaitez installer votre site Grav.
 
-Pretty much the only real requirement of Grav is that your server is running PHP 5.4 or higher. You can use Grav with Apache, Nginx, LiteSpeed, IIS, etc.
-
----
-
-## Option 1: Install with ZIP package
-
-The easiest way to install Grav is to use the ZIP package and install it:
-
-1. Download the latest-and-greatest Grav Base package from the [Downloads](http://getgrav.org/downloads) page.
-2. Extract the ZIP file in your webroot of your web server, e.g. `~/webroot/grav`.
-
-If you downloaded the ZIP file and then plan to move it to your webroot, please move the **entire folder** because it contains several hidden files (such as `.htaccess`) that will not be selected by default. The omission of these hidden files can cause problems when running Grav.
+La seule véritable exigence de Grav est que votre serveur peut exécuter PHP 5.4 ou supérieur. Vous pouvez utiliser Grav avec Apache, Nginx, LiteSpeed, IIS, etc.
 
 ---
 
-## Option 2: Install from GitHub
+## Option 1: Installation du paquet ZIP
 
-The alternative method is to install Grav from the GitHub repository and then run a simple dependency installation script:
+Le moyen le plus facile pour installer Grav est d’utiliser le paquet d’installation ZIP:
 
-Clone the Grav repository from GitHub to a folder in the webroot of your server, e.g. `~/webroot/grav`. Launch a `Terminal` or `Command Line` and navigate to the webroot folder:
+1. Téléchargez le dernier paquet de l’installation de base de Grav à partir de la page des [téléchargements](http://getgrav.org/downloads).
+2. Extraire le fichier ZIP dans le dossier webroot de votre serveur web, par exemple, `~/webroot/grav`.
+
+Si vous avez téléchargé le fichier ZIPet ensuite envisagez de le déplacer à votre webroot, déplacer **l’ensemble du dossier**, car il contient plusieurs fichiers cachés (comme `.htaccess`) qui ne seront pas sélectionnés par défaut. L’omission de ces fichiers cachés peut causer des problèmes lors de l’exécution Grav.
+
+---
+
+## Option 2: Installation à partir de GitHub
+
+L’autre méthode consiste à installer Grav à partir du référentiel de GitHub et ensuite exécuter un simple script d’installation des dépendances:
+
+Cloner le référentiel Grav de GitHub dans un dossier dans le webroot de votre serveur, par exemple, `~/webroot/grav`. Démarrer un Terminal ou une ligne de commande et accédez au dossier webroot:
 
 ```text
 $ cd ~/webroot
 $ git clone https://github.com/getgrav/grav.git
 ```
 
-Install the **plugin** and theme **dependencies** by using the [Grav CLI application](http://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
+Installer les dépendances du plugin et du thème en utilisant [l’application CLI de Grav](http://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
 
 ```text
 $ cd ~/webroot/grav
 $ bin/grav install
-This will automatically clone the required dependencies from GitHub directly into this Grav installation.
 ```
 
-You can find more information on installing and updating Grav by visiting Grav's [official documentation](http://learn.getgrav.org/basics/installation).
+Cela va cloner automatiquement les dépendances requises à partir de GitHub directement dans l’installation de Grav.
+
+Vous pouvez trouver plus d’informations sur l’installation et la mise à jour de Grav en consultant [la documentation officielle](http://learn.getgrav.org/basics/installation) de Grav.

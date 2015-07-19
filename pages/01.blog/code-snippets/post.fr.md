@@ -1,79 +1,79 @@
 ---
-title: Le Code Snippets
+title: Fragments de code
 date: 09:57 08-05-2015
-headline: Y compris le code dans vos messages est la simplicité même
+headline: Inclure du code dans vos articles est la simplicité même
 taxonomy:
     category: blog
     tag: [grav, tips]
 ---
 
 
-You can add code blocks to your content quickly and easily. These code blocks can be inline with your text, highlighted so they stand out against the rest of the content, or set apart in its own block to preserve formatting and enable syntax highlighting. This guide will help you get started.
+Vous pouvez ajouter des blocs de code dans votre contenu rapidement et facilement. Ces blocs de code peuvent être enligne avec votre texte, souligné afin qu’ils sont clairement visibles dans le reste du contenu, ou mis à part dans son propre bloc pour préserver le formatage et activer la coloration syntaxique. Ce guide va vous aider à commencer.
 
 ===
 
-## Inline Code
+## Code Inline
 
-Inline code is handy when you want to insert a string of code, or a specific file or function name without breaking your sentence. To do this, simply wrap your snippets with `` ` ``. Here is an example:
+Le code inline est très pratique lorsque vous souhaitez insérer une chaîne de code, ou le nom de fichier ou d’une fonction en respectant votre phrase. Pour ce faire, enveloppez simplement vos extraits de code avec `` ` ``. Voici un exemple:
 
 ```text
-In this example, `<section></section>` should be wrapped as **code**.
+Dans cet exemple, `<section></section>` doit être enveloppé comme **code**.
 ```
 
-Renders as:
+Apparaîtra comme ceci:
 
-In this example, `<section></section>` should be wrapped as **code**.
+Dans cet exemple, `<section></section>` doit être enveloppé comme **code**.
 
-> Inline code will not include syntax highlighting. It is only intended for quick snippets.
+> Code Inline ne comprendra pas la coloration syntaxique. Il est destiné uniquement à des fragments de code rapides.
 
-## Indented Code
+## Code indenté
 
-Intending your code is a quick and easy way to create a code block. By intending your code with at least four spaces, Grav will render it in a code block.
+L’indentation de votre code est un moyen rapide et facile de créer un bloc de code. En indentant votre code avec au moins quatre espaces, Grav le rendra dans un bloc de code.
 
 <pre>
-  // Some comments
-  line 1 of code
-  line 2 of code
-  line 3 of code
+  // Quelques commentaires
+  ligne 1 du Code
+  ligne 2 du Code
+  ligne 3 du Code
 </pre>
 
-Renders to:
+Apparaîtra comme ceci:
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // Quelques commentaires
+    ligne 1 du Code
+    ligne 2 du Code
+    ligne 3 du Code
 
-## Block Code "Fences"
+## Bloc de code "Fence"
 
-This is easily the most powerful method of creating a code block as it gives you optimal control over the output. You place any lines you would like to have appear in the code block within fences, consisting of three `` ` `` characters, with the first instance being followed directly by the type of code being presented in the code block. For example:
+Ceci est la méthode la plus puissante pour créer un bloc de code car elle vous donne un contrôle optimal du résultat. Vous placez toutes les lignes que vous aimeriez voir apparaître dans le bloc de code à l’intérieur des clôtures, composé de trois caractères `` ` ``. La première instance doit être directement suivie par le type de code présent dans le bloc de code. Par exemple:
 
 <pre>
 ``` markup
-Sample text here...
+Texte d’exemple ici...
 ```
 </pre>
 
-Renders as:
+Apparaîtra comme ceci:
 
 ```
-Sample text here...
+Texte d’exemple ici...
 ```
 
-HTML example:
+Exemple HTML:
 
 ``` html
 <HTML>
    <HEAD>
       <TITLE>
-         A Small Hello
+         Un petit bonjour
       </TITLE>
    </HEAD>
 <BODY>
-   <H1>Hi</H1>
-   <P>This is very minimal "hello world" HTML document.</P>
+   <H1>bonjour</H1>
+   <P>Ceci est document HTML très minime de "hello world".</P>
 </BODY>
 </HTML>
 ```
 
-You can find a more complete guide for using Markdown in your site's content in the [official Grav documentation](http://learn.getgrav.org/content/markdown).
+Vous pouvez trouver un guide plus complet d’utilisation de Markdown pour le contenu de votre site dans [la documentation officielle](http://learn.getgrav.org/content/markdown) de Grav.
