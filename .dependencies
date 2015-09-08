@@ -2,27 +2,27 @@ git:
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: develop
+        branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
+        branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
-        branch: develop
+        branch: master
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
-        branch: develop
+        branch: master
     langswitcher:
         url: https://github.com/getgrav/grav-plugin-langswitcher
         path: user/plugins/langswitcher
-        branch: develop    
+        branch: master    
     cacti:
         url: https://github.com/getgrav/grav-theme-cacti
         path: user/themes/cacti
-        branch: develop
+        branch: master
 links:
     problems:
         src: grav-plugin-problems
