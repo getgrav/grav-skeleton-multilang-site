@@ -1,3 +1,11 @@
+# v1.2.0
+## 09/11/2015
+
+1. [](#new)
+    * Added Norwgian
+1. [](#improved)
+	* Improved French
+
 # v1.1.1
 ## 09/08/2015
 
