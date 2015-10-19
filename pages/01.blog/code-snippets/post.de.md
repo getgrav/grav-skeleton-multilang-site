@@ -28,54 +28,54 @@ In diesem Beispiel, `<section></section>` wird umschlossen mit **code**.
 
 > Code innerhalb eines Satzes wird nicht als Syntax highlighting dargestellt. Es ist sinnvoll für kurze Codezeilen.
 
-## Indented Code
+## Eingerückter Code
 
-Intending your code is a quick and easy way to create a code block. By intending your code with at least four spaces, Grav will render it in a code block.
+Eingerückter Code ist ein schneller und einfacher Weg um einen Codeblock zu erstellen. Durch Einrücken des Codes mit mindestens vier Leerschlägen (Spaces) wird Grav diesen als Codeblock darstellen.
 
 <pre>
-  // Some comments
-  line 1 of code
-  line 2 of code
-  line 3 of code
+  // Einige Kommentare
+  Codezeile 1
+  Codezeile 2
+  Codezeile 3
 </pre>
 
-Renders to:
+Wird zu:
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // Einige Kommentare
+    Codezeile 1
+    Codezeile 2
+    Codezeile 3
 
 ## Block Code "Fences"
 
-This is easily the most powerful method of creating a code block as it gives you optimal control over the output. You place any lines you would like to have appear in the code block within fences, consisting of three `` ` `` characters, with the first instance being followed directly by the type of code being presented in the code block. For example:
+Dies ist die leistungsstärkste Methode zum Erstellen eines Codeblocks, welche die beste Kontrolle über die Ausgabe bietet. Füge einfach die Codezeilen die du darstellen möchtest in einem Block bestehend aus drei  `` ` `` Zeichen am Anfang und Ende deines Codes. An die eröffnenden `` ` `` fügst du den Typ des Codes in dem Codeblock ein. Zum Beispiel:
 
 <pre>
 ``` markup
-Sample text here...
+Beispieltext hier...
 ```
 </pre>
 
-Renders as:
+Wird folgendermassen dargestellt:
 
 ```
-Sample text here...
+Beispielstext hier...
 ```
 
-HTML example:
+HTML Beispiel:
 
 ``` html
 <HTML>
    <HEAD>
       <TITLE>
-         A Small Hello
+         Ein kleines Hallo
       </TITLE>
    </HEAD>
 <BODY>
    <H1>Hi</H1>
-   <P>This is very minimal "hello world" HTML document.</P>
+   <P>Dies ist ein wirklich minimalistisches "Hallo Welt" HTML Dokument.</P>
 </BODY>
 </HTML>
 ```
 
-You can find a more complete guide for using Markdown in your site's content in the [official Grav documentation](http://learn.getgrav.org/content/markdown).
+Du findest eine ausführlichere Anleitung über das Verwenden von Markdown im Inhalt der Website in der [offiziellen Grav Dokumentation](http://learn.getgrav.org/content/markdown).
