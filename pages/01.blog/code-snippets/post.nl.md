@@ -1,5 +1,6 @@
 ---
-title: Code fragmenten
+title: Codefragmenten
+slug: codefragmenten
 date: 09:57 08-05-2015
 headline: Stukjes code aan uw post toevoegen is poepsimpel
 taxonomy:

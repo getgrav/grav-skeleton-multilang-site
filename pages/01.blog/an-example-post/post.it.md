@@ -1,5 +1,6 @@
 ---
-title: Un esempio di messaggio
+title: Un articolo di esempio
+slug: articolo-di-esempio
 date: 20:18 23-06-2015
 headline: Riempito con contenuto di esempio
 taxonomy:

@@ -1,5 +1,6 @@
 ---
 title: Premiers pas avec Grav
+slug: premiers-pas-avec-grav
 date: 09:55 07-07-2015
 headline: Grav est ultra facile à installer, il suffit de suivre ainsi…
 taxonomy:

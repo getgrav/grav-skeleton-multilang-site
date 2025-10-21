@@ -1,10 +1,13 @@
 ---
 title: An Example Post
-date: 20:18 23-06-2015
-headline: Filled with sample content
+slug: example-post
+date: '20:18 23-06-2015'
+headline: 'Filled with sample content'
 taxonomy:
-    category: blog
-    tag: [grav]
+    tag:
+        - grav
+sitemap:
+    lastmod: '23:46 07-07-2025'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

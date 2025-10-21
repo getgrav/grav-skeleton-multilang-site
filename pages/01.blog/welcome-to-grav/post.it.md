@@ -1,5 +1,6 @@
 ---
 title: Benvenuti in Grav!
+slug: benvenuti-in-grav
 date: 16:00 10-07-2015
 headline: Tenersi pronti ad innamorarsi :)
 taxonomy:

@@ -1,5 +1,6 @@
 ---
 title: Κεντρική
+slug: kentriki
 class: home
 
 sitemap:

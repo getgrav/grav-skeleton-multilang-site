@@ -1,5 +1,6 @@
 ---
-title: Καλως ήρθατε στο Grav!
+title: Καλώς ήρθατε στο Grav!
+slug: kalos-irthete-sto-grav
 date: 16:00 10-07-2015
 headline: Ετοιμαστείτε να ερωτευτείτε :)
 taxonomy:

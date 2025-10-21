@@ -1,5 +1,6 @@
 ---
-title: Παράδειγμα Δημοσίευσης
+title: Παράδειγμα δημοσίευσης
+slug: paradeigma-dimosieusis
 date: 20:18 23-06-2015
 headline: Γέμισμα με έτοιμο περιεχόμενο
 taxonomy:

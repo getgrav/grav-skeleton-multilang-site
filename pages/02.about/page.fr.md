@@ -2,6 +2,7 @@
 title: À propos
 class: home
 profile: true
+slug: a-propos
 ---
 
 Ceci est une page normale. Ça pourrait être une page **« À propos »** ou une page décrivant les nombreux talents et dons que vous désirez mettre à disposition du monde du développement web.

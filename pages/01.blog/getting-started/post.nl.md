@@ -1,5 +1,6 @@
 ---
 title: Aan de slag met Grav
+slug: aan-de-slag-met-grav
 date: 09:55 07-07-2015
 headline: Grav is heel eenvoudig te installeren, volg ons...
 taxonomy:

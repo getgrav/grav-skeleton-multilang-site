@@ -1,15 +1,18 @@
 ---
 title: Getting Started with Grav
-date: 09:55 07-07-2015
-headline: Grav is super easy to install, just follow along...
+slug: getting-started
+date: '09:55 07-07-2015'
+headline: 'Grav is super easy to install, just follow along...'
 taxonomy:
-    category: blog
-    tag: [grav]
+    tag:
+        - grav
+sitemap:
+    lastmod: '22:58 14-10-2025'
 ---
 
 Grav is very easy to install. Because it does not require a database, installation can be as simple as unzipping the Grav core (or a skeleton) in the server directory you wish to have your Grav install appear.
 
-Pretty much the only real requirement of Grav is that your server is running PHP 5.4 or higher. You can use Grav with Apache, Nginx, LiteSpeed, IIS, etc.
+Pretty much the only real requirement of Grav is that your server is running PHP 7.4 or higher. You can use Grav with Apache, Nginx, LiteSpeed, IIS, etc.
 
 ---
 

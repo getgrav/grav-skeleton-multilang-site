@@ -1,5 +1,6 @@
 ---
 title: Empezando con Grav
+slug: empezando-con-grav
 date: 09:55 07-07-2015
 headline: Grav es super fácil de instalar, solo sigue leyendo...
 taxonomy:

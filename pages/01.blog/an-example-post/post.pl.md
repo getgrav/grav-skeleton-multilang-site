@@ -1,5 +1,6 @@
 ---
 title: Przykładowy wpis
+slug: przykladowy-wpis
 date: 20:18 23-06-2015
 headline: Wypełniony przykładową treścią
 taxonomy:

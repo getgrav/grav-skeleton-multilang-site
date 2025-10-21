@@ -1,5 +1,6 @@
 ---
-title: Een voorbeeld post
+title: Een voorbeeldpost
+slug: voorbeeldpost
 date: 20:18 23-06-2015
 headline: Opgevuld met willekeurige inhoud
 taxonomy:

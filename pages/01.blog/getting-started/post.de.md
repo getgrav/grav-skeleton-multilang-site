@@ -1,10 +1,11 @@
 ---
 title: Wie du mit Grav beginnst!
-date: 09:55 07-07-2015
-headline: Grav ist sehr einfach zu installieren, folge einfach …
+date: '09:55 07-07-2015'
+slug: einstieg
+headline: 'Grav ist sehr einfach zu installieren, folge einfach …'
 taxonomy:
-    category: blog
-    tag: [grav]
+    tag:
+        - grav
 ---
 
 Grav ist sehr einfach zu installieren. Weil es keine Datenbank benötigt – die Installation erfolgt durch das entpacken des Grav Basis-System (oder Basis-System mit einem Template) und das ablegen in das Server Verzeichnis – schon ist Grav installiert.

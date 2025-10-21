@@ -1,6 +1,6 @@
 ---
-title: Sobre nosotros
-slug: sobre-nosotros
+title: Sobre nosaltres
+slug: sobre-nosaltres
 class: home
 profile: true
 ---

@@ -1,5 +1,6 @@
 ---
-title: Bienvenido a Grav!
+title: ¡Bienvenido a Grav!
+slug: bienvenido-a-grav
 date: 16:00 10-07-2015
 headline: Prepárate para enamorarte :)
 taxonomy:

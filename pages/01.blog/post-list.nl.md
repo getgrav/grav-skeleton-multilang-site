@@ -1,5 +1,6 @@
 ---
 title: Startpagina
+slug: startpagina
 class: home
 
 sitemap:

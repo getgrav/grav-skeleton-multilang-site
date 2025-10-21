@@ -1,5 +1,6 @@
 ---
 title: Komme i gang med Grav
+slug: komme-i-gang-med-grav
 date: 09:55 07-07-2015
 headline: Grav er kjempelett å installere, bare les videre...
 taxonomy:

@@ -1,5 +1,6 @@
 ---
 title: O mnie
+slug: o-mnie
 class: home
 profile: true
 ---

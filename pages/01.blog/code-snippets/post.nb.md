@@ -1,5 +1,6 @@
 ---
 title: Kodebiter
+slug: kodebiter
 date: 09:57 08-05-2015
 headline: Å inkludere kode i innleggene dine er enkelheten selv
 taxonomy:

@@ -1,5 +1,6 @@
 ---
 title: Über mich
+slug: ueber-mich
 class: home
 profile: true
 ---

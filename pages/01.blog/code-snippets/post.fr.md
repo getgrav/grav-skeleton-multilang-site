@@ -1,5 +1,6 @@
 ---
 title: Fragments de code
+slug: fragments-de-code
 date: 09:57 08-05-2015
 headline: Inclure du code dans vos articles est la simplicité même
 taxonomy:

@@ -1,5 +1,6 @@
 ---
-title: Code Schnipsel
+title: Code-Schnipsel
+slug: code-schnipsel
 date: 09:57 08-05-2015
 headline: Code in deinen Beitrag zu integrieren ist so einfach wie noch nie
 taxonomy:

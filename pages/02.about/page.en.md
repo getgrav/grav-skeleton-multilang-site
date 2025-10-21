@@ -1,5 +1,6 @@
 ---
 title: About
+slug: about
 class: home
 profile: true
 ---

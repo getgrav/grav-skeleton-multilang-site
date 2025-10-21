@@ -1,5 +1,6 @@
 ---
-title: Witaj w świecie Grav!
+title: Witaj w Grav!
+slug: witaj-w-grav
 date: 16:00 10-07-2015
 headline: Przygotuj się na miłość od pierwszej instalacji :)
 taxonomy:

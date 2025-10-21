@@ -1,5 +1,6 @@
 ---
 title: Inicio
+slug: inicio
 class: home
 
 sitemap:

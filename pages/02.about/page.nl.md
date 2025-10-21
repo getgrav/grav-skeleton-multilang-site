@@ -1,5 +1,6 @@
 ---
 title: Over
+slug: over
 class: home
 profile: true
 ---

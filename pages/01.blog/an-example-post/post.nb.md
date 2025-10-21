@@ -1,5 +1,6 @@
 ---
 title: Et eksempelinnlegg
+slug: eksempelinnlegg
 date: 20:18 23-06-2015
 headline: Fylt med eksempelinnhold
 taxonomy:

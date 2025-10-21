@@ -1,5 +1,6 @@
 ---
-title: Ξεκινόντας με το Grav
+title: Ξεκινώντας με το Grav
+slug: xekinontas-me-to-grav
 date: 09:55 07-07-2015
 headline: Η εγκατάσταση του Grav είναι πολύ εύκολη αρκεί να ακολουθήσετε τα παρακάτω...
 taxonomy:

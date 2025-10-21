@@ -1,5 +1,6 @@
 ---
 title: Om
+slug: om
 class: home
 profile: true
 ---

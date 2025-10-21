@@ -1,11 +1,13 @@
 ---
-title: Welcome to Grav!
-slug: welcome-to-grav
-date: 16:00 10-07-2015
-headline: Get ready to fall in love :)
+title: 欢迎来到 Grav！
+slug: huanying-lai-dao-grav
+date: '16:00 10-07-2015'
+headline: 'Get ready to fall in love :)'
 taxonomy:
-    category: blog
-    tag: [grav]
+    tag:
+        - grav
+sitemap:
+    lastmod: '09:49 14-07-2025'
 ---
 
 You'll find this post in your `user/pages/01.blog/welcome-to-grav` folder - edit this post and reload the browser to see your changes.

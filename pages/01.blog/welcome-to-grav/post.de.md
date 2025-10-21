@@ -1,5 +1,6 @@
 ---
-title: Willkommen zu Grav!
+title: Willkommen bei Grav!
+slug: willkommen-bei-grav
 date: 16:00 10-07-2015
 headline: Probiere es aus und liebe es :)
 taxonomy:

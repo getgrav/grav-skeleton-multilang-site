@@ -1,12 +1,15 @@
 ---
-title: Fragmenty kodu
-date: 09:57 08-05-2015
-headline: Wstawianie kodu do twojej strony jest bardzo proste
+title: 'Fragmenty kodu'
+slug: fragmenty-kodu
+date: '09:57 08-05-2015'
+headline: 'Wstawianie kodu do twojej strony jest bardzo proste'
 taxonomy:
-    category: blog
-    tag: [grav, tips]
+    tag:
+        - grav
+        - tips
+sitemap:
+    lastmod: '01:19 21-10-2025'
 ---
-
 
 Możesz dodać fragmenty kodu do swojego wpisu, które będą się wyświetlać zaraz obok twojego tekstu. Kod jest wtedy delikatnie podświetlony, tak, aby wyróżniał się od pozostałej treści. Twój kod może być również umieszczony w nowej linijce, zyskuje wtedy na czytelności i korzysta z podświetlania składni. Poniższa prezentacja pomoże ci wybrać odpowiednie rozwiązanie.
 

@@ -1,12 +1,15 @@
 ---
 title: Code Snippets
-date: 09:57 08-05-2015
-headline: Including code in your posts is simplicity itself
+slug: code-snippets
+date: '09:57 08-05-2015'
+headline: 'Including code in your posts is simplicity itself'
 taxonomy:
-    category: blog
-    tag: [grav, tips]
+    tag:
+        - grav
+        - tips
+sitemap:
+    lastmod: '03:18 16-09-2025'
 ---
-
 
 You can add code blocks to your content quickly and easily. These code blocks can be inline with your text, highlighted so they stand out against the rest of the content, or set apart in its own block to preserve formatting and enable syntax highlighting. This guide will help you get started.
 

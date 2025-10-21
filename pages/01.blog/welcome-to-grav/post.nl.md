@@ -1,5 +1,6 @@
 ---
 title: Welkom bij Grav!
+slug: welkom-bij-grav
 date: 16:00 10-07-2015
 headline: Get ready to fall in love :)
 taxonomy:

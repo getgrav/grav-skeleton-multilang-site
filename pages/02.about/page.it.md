@@ -1,5 +1,6 @@
 ---
 title: Informazioni
+slug: informazioni
 class: home
 profile: true
 ---

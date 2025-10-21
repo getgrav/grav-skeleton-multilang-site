@@ -1,10 +1,13 @@
 ---
-title: Un Post de Ejemplo
-date: 20:18 23-06-2015
-headline: Lleno con contenido auto-generado
+title: Una publicación de ejemplo
+slug: publicacion-ejemplo
+date: '20:18 23-06-2015'
+headline: 'Lleno con contenido auto-generado'
 taxonomy:
-    category: blog
-    tag: [grav]
+    tag:
+        - grav
+sitemap:
+    lastmod: '21:17 07-07-2025'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

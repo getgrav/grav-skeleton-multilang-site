@@ -1,5 +1,6 @@
 ---
-title: Blocchi di codice
+title: Frammenti di codice
+slug: frammenti-di-codice
 date: 09:57 08-05-2015
 headline: Includere codice nei messaggi è estremamente semplice
 taxonomy:

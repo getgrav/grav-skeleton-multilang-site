@@ -1,5 +1,6 @@
 ---
 title: Strona startowa
+slug: strona-startowa
 class: home
 
 sitemap:

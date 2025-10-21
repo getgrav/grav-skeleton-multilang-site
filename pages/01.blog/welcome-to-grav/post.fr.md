@@ -1,5 +1,6 @@
 ---
 title: Bienvenue sur Grav !
+slug: bienvenue-sur-grav
 date: 16:00 10-07-2015
 headline: Préparez-vous à tomber sous le charme :)
 taxonomy:

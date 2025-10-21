@@ -1,5 +1,6 @@
 ---
 title: Velkommen til Grav!
+slug: velkommen-til-grav
 date: 16:00 10-07-2015
 headline: Gjør deg klar til å bli forelsket :)
 taxonomy:

@@ -1,5 +1,6 @@
 ---
-title: Snippets de Código
+title: Fragmentos de código
+slug: fragmentos-de-codigo
 date: 09:57 08-05-2015
 headline: Incluyendo bloques de código en tus posts es bastante simple
 taxonomy:

@@ -1,5 +1,6 @@
 ---
 title: Hjem
+slug: hjem
 class: home
 
 sitemap:

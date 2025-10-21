@@ -1,5 +1,6 @@
 ---
-title: Αποσπάσματα Κωδίκων
+title: Αποσπάσματα κώδικα
+slug: apospasmata-kodika
 date: 09:57 08-05-2015
 headline: Συμπεριλαμβάνοντας κώδικα στις δημοσιεύσεις
 taxonomy:

@@ -1,5 +1,6 @@
 ---
-title: Zacznij przygodę z Grav-em
+title: Pierwsze kroki z Grav
+slug: pierwsze-kroki-z-grav
 date: 09:55 07-07-2015
 headline: Grav jest niewiarygodnie łatwy w instalacji, po prostu podążaj za instrukcją...
 taxonomy:

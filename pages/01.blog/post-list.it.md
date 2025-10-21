@@ -1,5 +1,6 @@
 ---
 title: Home
+slug: home
 class: home
 
 sitemap:

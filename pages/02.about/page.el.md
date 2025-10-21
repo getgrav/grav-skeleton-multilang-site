@@ -1,5 +1,6 @@
 ---
 title: Σχετικά
+slug: sxetika
 class: home
 profile: true
 ---
